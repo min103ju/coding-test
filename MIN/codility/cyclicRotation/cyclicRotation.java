@@ -16,6 +16,7 @@ class Solution {
         // when
         for(int i=0; i < A.length; i++) {
             // 1. now index + k >= array size -> change index = (now index + k) - array size 
+            K = K % A.length;
             int chgIndex = i + K;
             if(chgIndex >= A.length){
                 chgIndex = chgIndex - A.length;
