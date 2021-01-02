@@ -10,3 +10,25 @@
 > input : [[7,10],[2,4]]
 > output : true
 
+* Comparator 비교
+> Comparator 비교시 a-b의 결과값에 따라 달라진다.
+> 1. a-b = 음수, 혹은 0일 경우 위치는 그대로 유지한다.
+> 2. a-b = 양수 일 경우 a와 b가 위치가 변경된다.
+> 3. example 
+>
+
+```
+Comparator<Interval> Comp = new Comparator<Interval>() {
+
+    @Override
+    public int compare(Interval a, Interval b) {
+        // TODO Auto-generated method stub
+        return a.start - b.start;
+    }
+
+};
+
+OR 
+
+Collections.sort(list, (a,b) -> a - b);
+```
