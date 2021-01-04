@@ -8,7 +8,7 @@ public class TwoSum2 {
 
         TwoSum2 twoSum2 = new TwoSum2();
 
-        int[] result = twoSum2.solve(nums, target);
+        twoSum2.solve(nums, target);
         
     }
 
