@@ -1,15 +1,6 @@
-import java.time.chrono.MinguoEra;
 import java.util.*;
 
-class Interval {
-    int start;
-    int end;
-    Interval(){}
-    Interval(int start, int end){
-        this.start = start;
-        this.end = end;
-    }
-}
+
 
 public class MeetingRoom2_2 {
     public static void main(String[] args){

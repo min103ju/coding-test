@@ -1,15 +1,5 @@
 import java.util.*;
 
-class Interval {
-    int start;
-    int end;
-    Interval(){}
-    Interval(int start, int end){
-        this.start = start;
-        this.end = end;
-    }
-}
-
 public class MeetingRoom2_1 {
     
     public static void main(String[] args){
