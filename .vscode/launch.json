@@ -1,0 +1,343 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch NumberOfIsland_DFS1",
+            "request": "launch",
+            "mainClass": "NumberOfIsland_DFS1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch LevelOrderOfBinaryTree2",
+            "request": "launch",
+            "mainClass": "LevelOrderOfBinaryTree2",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch ValidParentheses2",
+            "request": "launch",
+            "mainClass": "ValidParentheses2",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch BaseballGame2",
+            "request": "launch",
+            "mainClass": "BaseballGame2",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch BaseballGame1",
+            "request": "launch",
+            "mainClass": "BaseballGame1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseLinkedLists2",
+            "request": "launch",
+            "mainClass": "ReverseLinkedLists2",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseLinkedLists1",
+            "request": "launch",
+            "mainClass": "ReverseLinkedLists1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeKSortedList2",
+            "request": "launch",
+            "mainClass": "MergeKSortedList2",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeKSortedList1",
+            "request": "launch",
+            "mainClass": "MergeKSortedList1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch AddTwoNumbers",
+            "request": "launch",
+            "mainClass": "AddTwoNumbers",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch DailyTemperature1",
+            "request": "launch",
+            "mainClass": "DailyTemperature1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch DailyTemperature2",
+            "request": "launch",
+            "mainClass": "DailyTemperature2",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindAllAnagrams1",
+            "request": "launch",
+            "mainClass": "FindAllAnagrams1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindAllAnagrams2",
+            "request": "launch",
+            "mainClass": "FindAllAnagrams2",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindAnagramsMapping1",
+            "request": "launch",
+            "mainClass": "FindAnagramsMapping1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindAnagramsMapping2",
+            "request": "launch",
+            "mainClass": "FindAnagramsMapping2",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch GroupAnagrams1",
+            "request": "launch",
+            "mainClass": "GroupAnagrams1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch GroupAnagrams2",
+            "request": "launch",
+            "mainClass": "GroupAnagrams2",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch JewelsAndStones1",
+            "request": "launch",
+            "mainClass": "JewelsAndStones1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch JewelsAndStones2",
+            "request": "launch",
+            "mainClass": "JewelsAndStones2",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch KthLargestElement1",
+            "request": "launch",
+            "mainClass": "KthLargestElement1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch KthLargestElement2",
+            "request": "launch",
+            "mainClass": "KthLargestElement2",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch LicenseKeyFormatting1",
+            "request": "launch",
+            "mainClass": "LicenseKeyFormatting1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch LicenseKeyFormatting2",
+            "request": "launch",
+            "mainClass": "LicenseKeyFormatting2",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch LongestSubString1",
+            "request": "launch",
+            "mainClass": "LongestSubString1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch LongestSubString2",
+            "request": "launch",
+            "mainClass": "LongestSubString2",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxSubArray1",
+            "request": "launch",
+            "mainClass": "MaxSubArray1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxSubArray2",
+            "request": "launch",
+            "mainClass": "MaxSubArray2",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch MeetingRoom2_1",
+            "request": "launch",
+            "mainClass": "MeetingRoom2_1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch MeetingRoom2_2",
+            "request": "launch",
+            "mainClass": "MeetingRoom2_2",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeInterval2",
+            "request": "launch",
+            "mainClass": "MergeInterval2",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch MissingRanges1",
+            "request": "launch",
+            "mainClass": "MissingRanges1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch MissingRanges2",
+            "request": "launch",
+            "mainClass": "MissingRanges2",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch MoveZero1",
+            "request": "launch",
+            "mainClass": "MoveZero1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch MoveZero2",
+            "request": "launch",
+            "mainClass": "MoveZero2",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch PlusOne1",
+            "request": "launch",
+            "mainClass": "PlusOne1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch PlusOne2",
+            "request": "launch",
+            "mainClass": "PlusOne2",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch SpiralMatrix1",
+            "request": "launch",
+            "mainClass": "SpiralMatrix1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch SpiralMatrix2",
+            "request": "launch",
+            "mainClass": "SpiralMatrix2",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch TrappingRainWater1",
+            "request": "launch",
+            "mainClass": "TrappingRainWater1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch TrappingRainWater2",
+            "request": "launch",
+            "mainClass": "TrappingRainWater2",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoSum1",
+            "request": "launch",
+            "mainClass": "TwoSum1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoSum2",
+            "request": "launch",
+            "mainClass": "TwoSum2",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch UniqueEmailAddress1",
+            "request": "launch",
+            "mainClass": "UniqueEmailAddress1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch UniqueEmailAddress2",
+            "request": "launch",
+            "mainClass": "UniqueEmailAddress2",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch kClosest1",
+            "request": "launch",
+            "mainClass": "kClosest1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch kClosest2",
+            "request": "launch",
+            "mainClass": "kClosest2",
+            "projectName": "coding-test_146abca"
+        }
+    ]
+}
