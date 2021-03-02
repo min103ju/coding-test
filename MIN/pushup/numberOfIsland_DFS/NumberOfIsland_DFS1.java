@@ -1,19 +1,9 @@
 public class NumberOfIsland_DFS1 {
     public static void main(String[] args){
-        // char[][] island = {{'1','1','1','0','1'},
-        //                      {'1','1','0','0','0'},
-        //                      {'1','1','0','0','1'},
-        //                      {'0','0','0','0','1'}};
-
-        char[][] island = {{'1','0','1','0','1'},
-                             {'1','1','1','0','0'},
+        char[][] island = {{'1','1','1','0','1'},
+                             {'1','1','0','0','0'},
                              {'1','1','0','0','1'},
                              {'0','0','0','0','1'}};
-
-        // char[][] island = {{'1','1','1','0','1'},
-        //                      {'0','1','0','0','0'},
-        //                      {'1','1','0','0','1'},
-        //                      {'0','0','0','0','1'}};
 
         System.out.println("result : " + solve(island));
     }
@@ -36,7 +26,7 @@ public class NumberOfIsland_DFS1 {
                     // 떨어져있는 '1'을 만나야 count가 증가하고 
                     // 이때 다시 dsf 알고리즘이 동작한다.
                     count++;
-                    dsf(island, i, j);
+                    dfs(island, i, j);
                 }
             }
         }
@@ -44,7 +34,7 @@ public class NumberOfIsland_DFS1 {
         return count;
     }
 
-    public static void dsf(char[][] island, int i, int j){
+    public static void dfs(char[][] island, int i, int j){
         // 제외 조건
         // 1. '0'인 경우
         // 2. index값이 0보다 작은 경우
@@ -55,10 +45,10 @@ public class NumberOfIsland_DFS1 {
         if(i<0 || i>=m || j<0 || j>=n || island[i][j]!='1') return ;
         island[i][j]='X';
 
-        dsf(island, i-1, j);
-        dsf(island, i, j-1);
-        dsf(island, i+1, j);
-        dsf(island, i, j+1);
+        dfs(island, i-1, j);
+        dfs(island, i, j-1);
+        dfs(island, i+1, j);
+        dfs(island, i, j+1);
     }
 
 }
