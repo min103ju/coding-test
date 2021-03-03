@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MaximumDepthOfBinaryTree_BFS2",
+            "request": "launch",
+            "mainClass": "MaximumDepthOfBinaryTree_BFS2",
+            "projectName": "pushup_8cda5d17"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaximumDepthOfBinaryTree_BFS1",
+            "request": "launch",
+            "mainClass": "MaximumDepthOfBinaryTree_BFS1",
+            "projectName": "pushup_8cda5d17"
+        },
+        {
+            "type": "java",
             "name": "Launch MaximumDepthOfBinaryTree1",
             "request": "launch",
             "mainClass": "MaximumDepthOfBinaryTree1",
