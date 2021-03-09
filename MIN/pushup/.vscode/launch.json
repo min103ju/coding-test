@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch WordSearch2",
+            "request": "launch",
+            "mainClass": "WordSearch2",
+            "projectName": "pushup_8cda5d17"
+        },
+        {
+            "type": "java",
+            "name": "Launch WordSearch1",
+            "request": "launch",
+            "mainClass": "WordSearch1",
+            "projectName": "pushup_8cda5d17"
+        },
+        {
+            "type": "java",
+            "name": "Launch WordLadder1",
+            "request": "launch",
+            "mainClass": "WordLadder1",
+            "projectName": "pushup_8cda5d17"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxOfIsland2",
+            "request": "launch",
+            "mainClass": "MaxOfIsland2",
+            "projectName": "pushup_8cda5d17"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxOfIsland1",
+            "request": "launch",
+            "mainClass": "MaxOfIsland1",
+            "projectName": "pushup_8cda5d17"
+        },
+        {
+            "type": "java",
             "name": "Launch MaximumDepthOfBinaryTree_BFS2",
             "request": "launch",
             "mainClass": "MaximumDepthOfBinaryTree_BFS2",
