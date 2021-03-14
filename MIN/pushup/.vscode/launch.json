@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Maze1_BFS2",
+            "request": "launch",
+            "mainClass": "Maze1_BFS2",
+            "projectName": "pushup_8cda5d17"
+        },
+        {
+            "type": "java",
+            "name": "Launch Maze1_BFS1",
+            "request": "launch",
+            "mainClass": "Maze1_BFS1",
+            "projectName": "pushup_8cda5d17"
+        },
+        {
+            "type": "java",
             "name": "Launch WordSearch2",
             "request": "launch",
             "mainClass": "WordSearch2",
