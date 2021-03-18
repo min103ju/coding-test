@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch CourseSchedule1",
+            "request": "launch",
+            "mainClass": "CourseSchedule1",
+            "projectName": "pushup_8cda5d17"
+        },
+        {
+            "type": "java",
             "name": "Launch Maze1_DFS2",
             "request": "launch",
             "mainClass": "Maze1_DFS2",
