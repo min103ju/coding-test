@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch UniquePath1",
+            "request": "launch",
+            "mainClass": "UniquePath1",
+            "projectName": "pushup_8cda5d17"
+        },
+        {
+            "type": "java",
             "name": "Launch CourseSchedule1",
             "request": "launch",
             "mainClass": "CourseSchedule1",
