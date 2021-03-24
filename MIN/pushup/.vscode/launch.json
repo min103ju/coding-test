@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch CoinChange2",
+            "request": "launch",
+            "mainClass": "CoinChange2",
+            "projectName": "pushup_8cda5d17"
+        },
+        {
+            "type": "java",
+            "name": "Launch CoinChange1",
+            "request": "launch",
+            "mainClass": "CoinChange1",
+            "projectName": "pushup_8cda5d17"
+        },
+        {
+            "type": "java",
             "name": "Launch UniquePath1",
             "request": "launch",
             "mainClass": "UniquePath1",
