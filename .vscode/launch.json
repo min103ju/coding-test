@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MaximumDepthOfBinaryTree1",
+            "request": "launch",
+            "mainClass": "MaximumDepthOfBinaryTree1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaximumDepthOfBinaryTree2",
+            "request": "launch",
+            "mainClass": "MaximumDepthOfBinaryTree2",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumberOfIsland_BFS2",
+            "request": "launch",
+            "mainClass": "NumberOfIsland_BFS2",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumberOfIsland_BFS1",
+            "request": "launch",
+            "mainClass": "NumberOfIsland_BFS1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
             "name": "Launch NumberOfIsland_DFS1",
             "request": "launch",
             "mainClass": "NumberOfIsland_DFS1",
