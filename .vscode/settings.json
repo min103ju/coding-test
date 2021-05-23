@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": [
+        "MIN/programmers/stack&queue/truck",
+        "MIN/programmers/stack&queue/printer",
+        "MIN/programmers/stack&queue/functionalDevelop",
+        "MIN/programmers/sort",
+        "MIN/programmers/heap",
+        "MIN/programmers/hash/phoneNumberList",
+        "MIN/programmers/hash/notFinishedPlayer",
+        "MIN/programmers/hash/camouflage",
+        "MIN/kakao/2020",
+        "MIN/programmers/sorting/maximumNumber"
+    ]
+}

@@ -6,6 +6,104 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MaximumNumber1",
+            "request": "launch",
+            "mainClass": "MaximumNumber1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxNumber1",
+            "request": "launch",
+            "mainClass": "MaxNumber1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hotter1",
+            "request": "launch",
+            "mainClass": "Hotter1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch Truck3",
+            "request": "launch",
+            "mainClass": "Truck3",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch Truck1",
+            "request": "launch",
+            "mainClass": "Truck1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch Printer1",
+            "request": "launch",
+            "mainClass": "Printer1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch FunctionalDevelop3",
+            "request": "launch",
+            "mainClass": "FunctionalDevelop3",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch FunctionalDevelop1",
+            "request": "launch",
+            "mainClass": "FunctionalDevelop1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solve2",
+            "request": "launch",
+            "mainClass": "Solve2",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solve",
+            "request": "launch",
+            "mainClass": "Solve",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch AnotherSolution2",
+            "request": "launch",
+            "mainClass": "AnotherSolution2",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Parentheses.Solution",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch Parentheses",
+            "request": "launch",
+            "mainClass": "Parentheses.Parentheses",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
             "name": "Launch MaximumDepthOfBinaryTree1",
             "request": "launch",
             "mainClass": "MaximumDepthOfBinaryTree1",
