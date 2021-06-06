@@ -6,11 +6,7 @@ public class PhoneNumberList2 {
     
     public boolean solution(String[] phone_book) {
 
-        Arrays.sort(phone_book, new Comparator<String>() {
-            public int compare(String o1, String o2) {
-                return o2.length() - o1.length();
-            }
-        });
+        Arrays.sort(phone_book, (o1, o2) -> o2.length() - o1.length());
 
         HashMap<String, String> hm = new HashMap<>();
         for (String str : phone_book) {

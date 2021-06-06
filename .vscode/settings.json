@@ -1,14 +1,24 @@
 {
     "java.project.sourcePaths": [
         "MIN/programmers/stack&queue/truck",
+        "MIN/programmers/stack&queue/stockPrice",
         "MIN/programmers/stack&queue/printer",
         "MIN/programmers/stack&queue/functionalDevelop",
-        "MIN/programmers/sort",
+        "MIN/programmers/sorting/maximumNumber",
         "MIN/programmers/heap",
         "MIN/programmers/hash/phoneNumberList",
         "MIN/programmers/hash/notFinishedPlayer",
         "MIN/programmers/hash/camouflage",
+        "MIN/programmers/greedy/workoutClothes",
+        "MIN/programmers/greedy/makeMaximum",
+        "MIN/programmers/greedy/joystick",
+        "MIN/programmers/greedy/boat",
+        "MIN/programmers/exhaustiveSearch/searchDecimal",
+        "MIN/programmers/exhaustiveSearch/mockTest",
+        "MIN/programmers/exhaustiveSearch/carpet",
+        "MIN/programmers/allQuestion/dark&light",
         "MIN/kakao/2020",
-        "MIN/programmers/sorting/maximumNumber"
+        "MIN/goorm/greedy",
+        "MIN/programmers/allQuestion/removeParis"
     ]
 }

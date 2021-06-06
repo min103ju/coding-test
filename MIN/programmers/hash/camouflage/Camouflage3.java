@@ -1,9 +1,9 @@
 import java.util.*;
 
-public class Camouflage1 {
+public class Camouflage3 {
     
     public static void main(String[] args) {
-        Camouflage1 solution = new Camouflage1();
+        Camouflage3 solution = new Camouflage3();
 
         //String[][] clothes = {{"crowmask", "face"}, {"bluesunglasses", "face"}, {"smoky_makeup", "face"}};
         String[][] clothes = {
@@ -18,21 +18,23 @@ public class Camouflage1 {
         System.out.println("answer : " + solution.solution(clothes));
     }
 
-    //clothes [이름][종류]
     public int solution(String[][] clothes) {
-        int answer = 1;
 
-        HashMap<String, Integer> map = new HashMap<>();
-        
-        for(String[] clothe : clothes) {
-            map.put(clothe[1], map.getOrDefault(clothe[1], 0) + 1);
+        int answer=1;
+
+        Map<String, Integer> map = new HashMap<>();
+
+        for(int i=0; i<clothes.length; i++) {
+            //key - clothe type
+            String key = clothes[i][1];
+            map.put(key, map.getOrDefault(key, 0) + 1);
         }
 
         for(String key : map.keySet()) {
+            //특정 옷 종류를 안입는 경우를 위해 +1
             answer *= map.get(key) + 1;
         }
 
-        return answer - 1;
-       
+        return answer-1;
     }
 }

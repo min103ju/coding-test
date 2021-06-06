@@ -4,7 +4,7 @@ public class PhoneNumberList1 {
 
     public static void main(String[] args) {
 
-        NotFinishedPlayer1 solution = new NotFinishedPlayer1();
+        PhoneNumberList2 solution = new PhoneNumberList2();
 
         String[] phone_book = {"119", "97674223", "1195524421"};
 

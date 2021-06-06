@@ -4,7 +4,7 @@ import java.util.Stack;
 public class NotFinishedPlayer1 {
 
     public static void main(String[] args) {
-        PhoneNumberList1 solution = new PhoneNumberList1();
+        NotFinishedPlayer1 solution = new NotFinishedPlayer1();
 
         String[] participant = {"mislav", "stanko", "mislav", "ana"};
         String[] completion = {"stanko", "ana", "mislav"};
@@ -27,7 +27,6 @@ public class NotFinishedPlayer1 {
 
     public Stack<String> pushStack(String[] players) {
 
-        //unit 코드로 변환 후 비교 sort
         Arrays.sort(players);
 
         Stack<String> stack = new Stack<String>();

@@ -6,6 +6,160 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch RemoveParis1",
+            "request": "launch",
+            "mainClass": "RemoveParis1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch DarkLight1",
+            "request": "launch",
+            "mainClass": "DarkLight1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch Carpet2",
+            "request": "launch",
+            "mainClass": "Carpet2",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch Carpet1",
+            "request": "launch",
+            "mainClass": "Carpet1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchDecimal1",
+            "request": "launch",
+            "mainClass": "SearchDecimal1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaximumNumber2",
+            "request": "launch",
+            "mainClass": "MaximumNumber2",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch StockPrice2",
+            "request": "launch",
+            "mainClass": "StockPrice2",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch StockPrice1",
+            "request": "launch",
+            "mainClass": "StockPrice1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch Camouflage3",
+            "request": "launch",
+            "mainClass": "Camouflage3",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch Camouflage1",
+            "request": "launch",
+            "mainClass": "Camouflage1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch HappyNumber1",
+            "request": "launch",
+            "mainClass": "HappyNumber1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch Boat2",
+            "request": "launch",
+            "mainClass": "Boat2",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch Boat1",
+            "request": "launch",
+            "mainClass": "Boat1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch MakeMaximum3",
+            "request": "launch",
+            "mainClass": "MakeMaximum3",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch MakeMaximum2",
+            "request": "launch",
+            "mainClass": "MakeMaximum2",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch MakeMaximum1",
+            "request": "launch",
+            "mainClass": "MakeMaximum1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch Joystick2",
+            "request": "launch",
+            "mainClass": "Joystick2",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch Joystick1",
+            "request": "launch",
+            "mainClass": "Joystick1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch WorkoutClothes2",
+            "request": "launch",
+            "mainClass": "WorkoutClothes2",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch WorkoutClothes1",
+            "request": "launch",
+            "mainClass": "WorkoutClothes1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch MockTest1",
+            "request": "launch",
+            "mainClass": "MockTest1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
+            "name": "Launch PhoneNumberList1",
+            "request": "launch",
+            "mainClass": "PhoneNumberList1",
+            "projectName": "coding-test_146abca"
+        },
+        {
+            "type": "java",
             "name": "Launch MaximumNumber1",
             "request": "launch",
             "mainClass": "MaximumNumber1",
